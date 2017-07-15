@@ -1,0 +1,58 @@
+{
+    "tag": "ApiDefinitionV1",
+    "contents": {
+        "apiDefinitionTypes": [
+            {
+                "tag": "Class",
+                "ignored": null,
+                "name": "Joke",
+                "vars": [
+                    {
+                        "propType": {
+                            "tag": "String",
+                            "contents": []
+                        },
+                        "propRName": "icon_url",
+                        "propLName": null
+                    },
+                    {
+                        "propType": {
+                            "tag": "Array",
+                            "contents": {
+                                "tag": "String",
+                                "contents": []
+                            }
+                        },
+                        "propRName": "category",
+                        "propLName": null
+                    },
+                    {
+                        "propType": {
+                            "tag": "String",
+                            "contents": []
+                        },
+                        "propRName": "url",
+                        "propLName": null
+                    },
+                    {
+                        "propType": {
+                            "tag": "String",
+                            "contents": []
+                        },
+                        "propRName": "value",
+                        "propLName": null
+                    },
+                    {
+                        "propType": {
+                            "tag": "String",
+                            "contents": []
+                        },
+                        "propRName": "id",
+                        "propLName": null
+                    }
+                ],
+                "deprecated": null
+            }
+        ]
+    }
+}

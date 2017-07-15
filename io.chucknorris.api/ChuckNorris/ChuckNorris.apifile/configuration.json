@@ -1,0 +1,13 @@
+{
+    "_exportCommands": [
+        {
+            "_generatorSetting": {
+                "tag": "GeneratorSettingObjC",
+                "contents": {
+                    "splitModelClassesAndEnumsIntoSeparateFiles": false
+                }
+            },
+            "_outDirectoryPath": "/Users/zark/Dropbox/bin/objc/JSONClassGeneratorApiSamples/io.chucknorris.api/ChuckNorris/ChuckNorris/Api"
+        }
+    ]
+}
